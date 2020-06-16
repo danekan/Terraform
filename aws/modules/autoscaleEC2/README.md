@@ -1,0 +1,1 @@
+Module to set up EC2 auto scaling group and classic load balancer.
